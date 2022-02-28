@@ -1,6 +1,8 @@
 aria2 - The ultra fast download utility
 =======================================
 
+This fork is the standard aria2 with the hardcoded limit of -x, --max-connection-per-server increased from 16 to 1024. Compile it yourself.
+
 Disclaimer
 ----------
 This program comes with no warranty.
